@@ -1,0 +1,38 @@
+
+Paypal: 
+cuenta: 
+meroticos.marketplace@gmail.com
+contraseña:
+MERO_ticos_2022
+
+
+Sandbox Account: 
+sb-0x0cv16046808@business.example.com
+
+Client ID: 
+AdbTN8XBtG0Z7h_mJWlh0zovxFldoueFwgVB-mQ0hUD6qYvxky81pWySfYTookmuZVmC6YJzfvDM46ug
+
+
+Mercado PAgo: 
+
+Credenciales de producción: 
+
+Public Key
+APP_USR-b36e9c90-67a5-43c4-a22d-514ffb23e833
+
+Access Token
+APP_USR-7166661401039927-042801-ed8600b522824ab9e703ef33160a7a8b-1114133430 
+
+Client ID
+7166661401039927
+
+Client Secret
+nuMLLXtiERy3MygDTPxBfLmMsicEQyva
+
+
+Credenciales de Prueba 
+Public Key
+TEST-d4e71dd8-cbee-44e9-8bf6-202654ee9339
+
+ACcess Token: 
+TEST-7166661401039927-042801-753124a94378f023f2f2f312d269e052-1114133430
